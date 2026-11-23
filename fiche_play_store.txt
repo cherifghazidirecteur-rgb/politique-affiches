@@ -1,0 +1,69 @@
+=== FICHE PLAY STORE ===
+
+NOM (30 caractères max)
+Affiches et Étiquettes
+
+DESCRIPTION COURTE (80 max)
+FR : Créez vos étiquettes de prix et affiches promo en quelques secondes.
+AR : أنشئ ملصقات الأسعار والإعلانات الترويجية في ثوانٍ.
+
+DESCRIPTION LONGUE - FRANÇAIS
+Créez des étiquettes de prix, des affiches A4 et des stories pour votre magasin, sans compétence en graphisme.
+
+Comment ça marche
+1. Écrivez vos produits et vos prix, un par ligne.
+2. Choisissez un modèle, une couleur et une police.
+3. Enregistrez l'image ou partagez-la directement.
+
+Ce que vous pouvez faire
+- Étiquettes de prix : 1, 2, 4 ou 21 par feuille A4
+- Affiches A4 et format story pour les réseaux sociaux
+- Une couleur et une action promo différentes pour chaque produit (soldes, promo, nouveau…)
+- Répéter la même étiquette en plusieurs tailles sur une feuille
+- Votre logo, le nom du magasin, le téléphone et les dates de l'offre
+- 12 thèmes de couleurs, plusieurs polices, couleur personnalisée
+- Devises : DT, €, $, £ et autres
+- 12 langues, dont l'arabe (écriture de droite à gauche)
+- Fonctionne sans internet. Vos données restent sur votre téléphone.
+
+Gratuit et Premium
+Version gratuite : jusqu'à 4 produits par feuille, avec un filigrane.
+Premium : produits illimités, sans filigrane. Abonnement mensuel, annulable à tout moment dans Google Play.
+
+Idéal pour : épiceries, boulangeries, boutiques, marchés, pharmacies, restaurants, soldes et promotions.
+
+DESCRIPTION LONGUE - ARABE
+أنشئ ملصقات أسعار وإعلانات A4 وصور ستوري لمحلّك بسهولة ودون أي خبرة في التصميم.
+
+كيف يعمل التطبيق
+1. اكتب منتجاتك وأسعارها، منتجًا في كل سطر.
+2. اختر القالب واللون والخط.
+3. احفظ الصورة أو شاركها مباشرة.
+
+ما يمكنك فعله
+- ملصقات أسعار: 1 أو 2 أو 4 أو 21 في الصفحة
+- إعلانات A4 وصور ستوري لوسائل التواصل
+- لون وعرض ترويجي مختلف لكل منتج (تخفيضات، عرض، جديد…)
+- تكرار الملصق نفسه بأحجام مختلفة في صفحة واحدة
+- شعارك واسم المحل والهاتف وتواريخ العرض
+- 12 قالب ألوان وعدة خطوط ولون مخصص
+- عملات: دينار، يورو، دولار، جنيه وغيرها
+- 12 لغة منها العربية
+- يعمل دون إنترنت وتبقى بياناتك على هاتفك
+
+مجاني وبريميوم
+النسخة المجانية: حتى 4 منتجات في الصفحة مع علامة مائية.
+بريميوم: منتجات غير محدودة دون علامة مائية. اشتراك شهري يمكن إلغاؤه في أي وقت من Google Play.
+
+CATÉGORIE : Entreprise (Business)
+TAGS : étiquettes, prix, affiches, promo, magasin
+
+=== QUESTIONNAIRES PLAY CONSOLE ===
+Données collectées : AUCUNE collectée par l'éditeur. (Achats gérés par Google Play.)
+Publicités : Non
+Public cible : 18 ans et plus
+Contenu : aucun contenu sensible
+Classification : questionnaire, réponses "Non" partout
+Accès à l'app : pas de connexion requise
+Abonnement : identifiant premium_mensuel, 2,99 USD / mois
+Pays : Tunisie + pays voulus
